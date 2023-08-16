@@ -31,7 +31,7 @@ Just fork it and you are good to go.
 
 ## Authors
 
-👤 **Atul Kumar**
+👤 Akula saitejesh
 
 - Github: [@Atul Kumar](https://github.com/in-imitable)
 - Linkedin: [Atul Kumar](https://www.linkedin.com/in/atul-kumar-6aa351154/)
