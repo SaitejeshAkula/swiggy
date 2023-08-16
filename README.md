@@ -33,9 +33,7 @@ Just fork it and you are good to go.
 
 👤 Akula saitejesh
 
-- Github: [@Atul Kumar](https://github.com/in-imitable)
-- Linkedin: [Atul Kumar](https://www.linkedin.com/in/atul-kumar-6aa351154/)
-- Email: (atul69030@gmail.com)
+- Email: (saitejeshakula143@gmail.com)
 
 ## 🤝 Contributing
 
